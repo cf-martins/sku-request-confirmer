@@ -1,0 +1,13 @@
+{
+  "dart.flutterSdkPath": "/home/martins/.local/share/mise/installs/flutter/3.27.3-stable",
+  "go.goroot": "/home/martins/.local/share/mise/installs/go/1.23.5",
+  "debug.javascript.defaultRuntimeExecutable": {
+    "pwa-node": "/home/martins/.local/share/mise/shims/node"
+  },
+  "bun.runtime": "/home/martins/.local/share/mise/shims/bun",
+  "python.defaultInterpreterPath": "/home/martins/.local/share/mise/installs/python/3.13.1/bin/python",
+  "go.alternateTools": {
+    "go": "/home/martins/.local/share/mise/shims/go",
+    "dlv": "/home/martins/.local/share/mise/shims/dlv"
+  }
+}

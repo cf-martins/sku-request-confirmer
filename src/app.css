@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes:
+    corporate --default,
+    business --prefersdark;
+}
+
+@layer base {
+  :root {
+    @apply selection:bg-primary selection:text-primary-content;
+  }
+}
